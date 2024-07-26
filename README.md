@@ -1,1 +1,1 @@
-# SQL-Exploration-on-Financial_Risk
+Read the "Report and Tasks Performed" file for report and overview of project.
