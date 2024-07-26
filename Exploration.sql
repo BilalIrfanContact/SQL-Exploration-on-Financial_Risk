@@ -1,3 +1,6 @@
+-- Skills Used: Aggregate Functions, Grouping, Ordering, Joins, Subqueries, 
+--Temp Tables, Stored Procedures, CTEs, Data Analysis & Comparison
+
 -- EXPLORATION ON "Personal Info" TABLE
 select * from PersonalInfo
 
